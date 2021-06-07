@@ -1,0 +1,11 @@
+node_modules
+
+coverage
+
+dist
+lib
+es
+types
+
+
+.DS_Store
